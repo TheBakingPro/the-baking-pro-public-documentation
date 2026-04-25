@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Baking Pro Support</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background-color: #fff8f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #d96c6c;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #444;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      margin-top: 20px;
+    }
+    a {
+      color: #d96c6c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #777;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Baking Pro Support</h1>
+
+    <div class="card">
+      <p>
+        Baking Pro is an all-in-one management app designed for bakers to manage recipes, inventory, orders, and clients efficiently.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Contact Support</h2>
+      <p>
+        Need help or experiencing an issue? Reach out to us:
+      </p>
+      <p>
+        📧 Email: <a href="mailto:support@bakingpro.com">support@bakingpro.com</a>
+      </p>
+      <p>
+        We aim to respond within 24–48 hours.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Frequently Asked Questions</h2>
+
+      <p><strong>How do I reset my password?</strong><br>
+      Use the “Forgot Password” option on the login screen.</p>
+
+      <p><strong>What can I manage in Baking Pro?</strong><br>
+      You can manage recipes, track stock levels, handle customer orders, and organize client information.</p>
+    </div>
+
+    <div class="card">
+      <h2>Legal</h2>
+      <p>
+        <a href="https://thebakingpro.github.io/the-baking-pro-public-documentation/privacy-policy.html" target="_blank">
+          Privacy Policy
+        </a>
+        <br><br>
+        <a href="https://thebakingpro.github.io/the-baking-pro-public-documentation/terms-and-conditions.html" target="_blank">
+          Terms & Conditions
+        </a>
+      </p>
+    </div>
+
+    <div class="footer">
+      © 2026 Baking Pro. All rights reserved.
+    </div>
+  </div>
+</body>
+</html>
